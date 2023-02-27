@@ -1,0 +1,58 @@
+.img{
+  width: 100%;
+  vertical-align: top;
+  
+}
+.idiomas{
+  display: flex;
+  justify-content: center;
+  
+ }
+
+.banderas{
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+ }
+
+ .botones{
+  text-align: center;
+ }
+
+ .botones button{
+  width: 150px;
+  background-color: aliceblue;
+  padding: 5px 8px;
+  margin: 10px;
+  border-radius: 50px;
+  border: 1px dotted black;
+  color: aliceblue;
+  background-color: teal;
+  font-size: 1.05em;
+  cursor: pointer;
+ }
+
+ .profesora, .lugar{
+  width: 320px;
+   text-align: center;
+   border-radius: 8px;
+   background-color: teal;
+   padding-bottom: 15px;
+   color: aliceblue;
+   margin: auto;
+
+ }
+
+ .imagen_profesora{
+  width: 280px;
+  border-radius: 8px;
+ }
+
+ h1, h2{
+  text-align: center;
+ }
+
+ .App {
+
+ }
